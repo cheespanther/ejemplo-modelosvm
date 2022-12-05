@@ -1,4 +1,4 @@
-## SUPORT VECTOR MODEL EXERCISE
+## SUPORT VECTOR MACHINE EXERCISE
 
 ---
 title: "Ejercicio modelado SVM con datos IRIS"
